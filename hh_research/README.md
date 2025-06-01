@@ -20,3 +20,9 @@
 `hh_research.ipynb` — основной ноутбук с анализом данных
 `README.md` — краткое описание проекта
 
+## Библиотеки:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- ast
